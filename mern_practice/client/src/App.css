@@ -1,0 +1,33 @@
+.input {
+  width: 40%;
+}
+.card-detail {
+  font-weight: 600;
+  margin-top: 40px;
+}
+.card-detail span {
+  font-weight: 400;
+}
+.card-title {
+  margin-left: 95px;
+}
+.card {
+  box-shadow: 5px 10px 5px 10px #888888;
+}
+.main {
+  background-color: rgb(249, 243, 234);
+  width: 100vw;
+  height: 100vh;
+}
+h2 {
+  font-family: "Josefin Slab", serif;
+  font-weight: 600;
+  font-size: 45px;
+}
+hr {
+  width: 600px;
+  margin-left: 100px;
+}
+.btn btn:hover {
+  background-color: green;
+}
